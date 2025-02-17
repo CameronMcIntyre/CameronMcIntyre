@@ -1,4 +1,5 @@
 ## G'Day! 👋 Welcome to my GitHub
+My name is Cam, I'm an Actuarial Science Grad and Volleyball Athlete. I love diving into data and using it to reach new heights! Heres a bit about me:
 
 - 🔭 I’m currently working on:
 1. Building a Volleyball Match Analysis Tool
